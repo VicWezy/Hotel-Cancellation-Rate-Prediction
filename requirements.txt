@@ -1,0 +1,13 @@
+pandas==1.2.4
+numpy==1.20.1
+matplotlib==3.3.4
+seaborn==0.11.1
+plotly==4.14.3
+missingno==0.4.2
+folium==0.12.1
+scikit-learn==0.24.1
+xgboost==1.4.1
+catboost==0.26
+lightgbm==3.2.1
+tensorflow==2.5.0
+keras==2.4.3
