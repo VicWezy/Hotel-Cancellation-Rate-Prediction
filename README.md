@@ -14,7 +14,7 @@ The project is structured into the following phases:
 
 1. **Read in Data**: Loading and importing the dataset for analysis.
 2. **Data Wrangling**: Cleaning and preprocessing the dataset to handle missing values, outliers, and unreasonable data.
-3. **EDA**: Exploring the dataset to gain insights and understand its characteristics using visualizations and statistical analysis.
+3. **EDA**: Exploring the dataset to gain insights and understand its characteristics using visualizations and statistical analysis. (Note: Due to the limitations of GitHub in directly displaying Plotly graphs, you can click `Open in Colab` to view the visualization.)
 4. **Feature Engineering**: Creating new features and transforming existing features to improve the predictive power of the models. This includes processing categorical and numerical variables appropriately.
 5. **Model Building**: Developing machine learning and deep learning models for predicting the hotel cancellation rate.
 6. **Model Evaluation**: Assessing the performance of the developed models using appropriate evaluation metrics and techniques.
